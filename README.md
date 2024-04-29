@@ -1,16 +1,23 @@
-### Hola es un gusto, soy Hugo👋
+## PROYECTO DE IESTP MISIONEROS MONFORTIANOS
 
-<!--
-**Hdpr2003/Hdpr2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo Del IESTP .](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VpRiiU706RewGfTonI8fez3_z1PjqTtV9XVrEAbM8A&s)
 
-Here are some ideas to get you started:
+Este proyecto fue realizado en el Instituto de Educacion Superior Tecnologico Publico "Misioneros Monfortianos"
+con los alumnos del quinto ciclo turno noche y su docente lindo, bello y precioso xD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* HTML
+* CSS
+* C++
+* Flex Box
+* Responsive USB Design
+* Github
+
+Este proyecto es la solucion a uno de los desafios de la plataforma frontEnd Mentor
+
+*Alumno:* Hugo Palacios:
+
+| ESPECIALIDADES  | Comentarios |
+| ------------- |:-------------:|
+| DSI     | Esta es la carrera    |
+| ENFERMERIA     | No me llama la atencion    |
+| MECANICA AUTOMOTRIZ      | No es de mi agrado    |
