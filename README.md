@@ -31,6 +31,12 @@
 <img width="75px" src=https://raw.githubusercontent.com/Pedro-Murilo/icons-for-readme/5bbe933ecb81a1650e0041ec6e47ebde0dd4ffb1/.github/firebase-icon.svg alt="Firebase Icon" />
 </p>
 
+<p style="text-align:center">
+ 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5XVKmPqEy8jBZA7YWyUvJeg0CmisnSS06Bw&s)
+</p>
+
+
 
 
 
